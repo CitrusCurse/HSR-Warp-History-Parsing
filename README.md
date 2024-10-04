@@ -4,3 +4,5 @@ Using Fluent-Bit (specifically LUA scripts) you can parse Honkai Star Rail Warp 
 To see any of these lua scripts in action, check out the Calyptia Sandbox.
 
 https://calyptia.github.io/sandbox/
+
+NOTICE: I still need to add all of the required configs if you want to use Fluent-Bit. WIP.
