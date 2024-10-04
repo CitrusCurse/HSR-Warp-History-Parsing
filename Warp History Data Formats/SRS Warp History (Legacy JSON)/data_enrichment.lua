@@ -58,6 +58,7 @@ function cb_filter(tag, ts, record)
   if record.item_id=="21020" then record.name="Geniuses' Repose" end
   if record.item_id=="21042" then record.name="Indelible Promise" end
   if record.item_id=="21043" then record.name="Concert for Two" end
+  if record.item_id=="21046" then record.name="Poised to Bloom" end
   --5 Star Light Cones--
   if record.item_id=="23000" then record.name="Night on the Milky Way" end
   if record.item_id=="23002" then record.name="Something Irreplaceable" end
