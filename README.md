@@ -1,5 +1,5 @@
 # HSR-Warp-History-Parsing
-Using Fluent-Bit (specifically LUA scripts) you can parse Honkai Star Rail Warp History data to individual events.
+Using Fluent-Bit (specifically LUA scripts) you can parse Honkai Star Rail Warp History data to individual events. Although I also threw in a Splunk TA too since I made it before I knew what Fluent-Bit was.
 
 To see any of these lua scripts in action, check out the Calyptia Sandbox.
 
