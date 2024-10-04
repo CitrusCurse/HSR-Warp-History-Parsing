@@ -5,7 +5,7 @@ function cb_filter(tag, ts, record)
   record.gacha_type=string.match(tostring(record.gachaType),'([^%.]+)')
   record.item_id=string.match(tostring(record.itemId),'([^%.]+)')
   record.rank_type=string.match(tostring(record.rarity),'([^%.]+)')
-  record.uid="613380672"
+  record.uid="<insert your uid here>"
   if record.itemId >= 20000 then
     record.item_type="Light Cone"
   else
